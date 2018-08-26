@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Football Club</string>
+
+    <string name="english_pemier_league_mtch">4328</string>
+    <string name="english_league_championship_mtch">4329</string>
+    <string name="german_bundes_liga_mtch">4331</string>
+    <string name="italian_serie_A_mtch">4332</string>
+    <string name="french_ligue_1_mtch">4334</string>
+    <string name="spanish_la_liga_mtch">4335</string>
+
+    <array name="league_list">
+        <item>Spanish La Liga</item>
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+    </array>
+
+    <array name="mtch_list">
+        <item>Past Match</item>
+        <item>Next Match</item>
+    </array>
+
+    <string name="pastMatch">Past Match</string>
+    <string name="nextMatch">Next Match</string>
+    <string name="vs_">VS</string>
+    <string name="shots_">SHOTS</string>
+    <string name="goaler_">GOALER</string>
+    <string name="goalkeeper_">GOALKEEPER</string>
+    <string name="defense_">DEFENSE</string>
+    <string name="midfield_">MIDFIELD</string>
+    <string name="favoriteMatchMatch">Favorites</string>
+    <string name="past_match">Past Match</string>
+    <string name="next_match">Next Match</string>
+    <string name="vs">vs</string>
+    <string name="goals">goals</string>
+    <string name="shots">shots</string>
+    <string name="lineup">lineup</string>
+    <string name="goalkeeper">goalkeeper</string>
+    <string name="english_pemier_league">English Premier League</string>
+    <string name="english_league_championship">English League Championship</string>
+    <string name="german_bundes_liga">German Bundesliga</string>
+    <string name="italian_serie_A">Italian Serie A</string>
+    <string name="team_">Team</string>
+    <string name="my_match">My Match</string>
+    <string name="my_team">My Team</string>
+    <string name="weight">Weight</string>
+    <string name="height_">Height</string>
+    <string name="forward_player">Forward</string>
+    <string name="search">Search</string>
+    <string name="no_parameter">empty_parameter</string>
+    <string name="favorite_match_">Favorite Match</string>
+    <string name="favorite_team_">Favorite Team</string>
+    <string name="picture_player">Picture Player</string>
+    <string name="empty_data">Data Kosong</string>
+    <string name="defense">defense</string>
+    <string name="forward_">FORWARD</string>
+    <string name="substitutes_">SUBSTITUTES</string>
+    <string name="home_badge_">home_badge</string>
+    <string name="away_badge_">away_badge</string>
+    <string name="match_">Match</string>
+    <string name="midfield">midfield</string>
+    <string name="forward">forward</string>
+    <string name="subtitute">subtitute</string>
+    <string name="teams">Teams</string>
+    <string name="french_ligue_1">French Ligue 1</string>
+    <string name="spanish_la_liga">Spanish La Liga</string>
+</resources>
